@@ -6,6 +6,7 @@ public class Car {
 		  int price;
 		  String name;
 		  String a= "ABC";
+		  String b="xcd";
 		  
 
 	}
